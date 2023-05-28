@@ -1,1 +1,10 @@
 node_modules/
+
+# Files starting with the letter 'z'
+z*
+
+# a file called .env
+.env
+
+# a top level directory called 'artifacts'
+/artifacts
