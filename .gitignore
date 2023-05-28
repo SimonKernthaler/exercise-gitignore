@@ -7,4 +7,4 @@ z*
 .env
 
 # a top level directory called 'artifacts'
-/artifacts
+/artifacts/
